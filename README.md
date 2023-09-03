@@ -3,5 +3,9 @@
 
 
 Space Bar to Jump 
+
+
 Z to shoot fireballs 
+
+
 Good Luck!!!
